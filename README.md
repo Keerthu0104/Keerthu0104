@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthu0104&label=Profile%20views&color=0e75b6&style=flat" alt="keerthu0104" /> </p>
+
 
 - 🔭 I’m currently working on **Optimal Office Schedule Generator**
 
